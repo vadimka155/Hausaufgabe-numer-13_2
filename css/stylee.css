@@ -1,0 +1,63 @@
+
+
+body{font-family: "Roboto";}
+header{color: rgb(255, 255, 255);}
+
+.logo-header{   color: #000000;
+ font-size: 23px; 
+ text-decoration: none; 
+font-family:"Raleway";}
+
+
+
+
+.main-text{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.9;
+ color: #757575;
+}
+
+
+
+
+
+
+
+
+ button:hover {
+    background-color:var(--button);
+    transition: 0.7s;
+    text-decoration: none;
+}
+
+
+ .logo-footer{color: var(--white);
+    font-size: 23px;
+    text-decoration: none; 
+font-family: "Raleway";
+}
+
+
+    footer{background-color: var(--gray);}
+
+    .footer-link{color: var(--white);
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;}
+
+
+    .footer-item{color: var(--gray);}
+
+    .gmail-footer{color: var(--white);
+font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    
+    }
+    
+    .tel-footer{color:var(--white) ;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;
+    }
